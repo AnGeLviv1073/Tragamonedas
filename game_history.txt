@@ -1,0 +1,9 @@
+Resultado: ['💎', '🍋', '💎'] | Balance: 110
+Resultado: ['🔔', '🍒', '💎'] | Balance: 100
+Resultado: ['🔔', '⭐', '🍋'] | Balance: 90
+Resultado: ['⭐', '⭐', '🔔'] | Balance: 100
+Resultado: ['🔔', '🍋', '🍋'] | Balance: 110
+Resultado: ['🔔', '🔔', '🍋'] | Balance: 120
+Resultado: ['🍋', '🔔', '💎'] | Balance: 110
+Resultado: ['💎', '⭐', '🍒'] | Balance: 100
+Resultado: ['🍋', '💎', '🍋'] | Balance: 110
